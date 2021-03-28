@@ -15,4 +15,21 @@
     <link rel="stylesheet" href="css\footer.css">
     <link rel="stylesheet" href="About Us\aboutus.css">
 </head>
+   <body>
+    <?php include('php/header1.php'); ?>
+
+    <div id="accordion" class="panel-group">
+        <div class="panel panel-info" style="cursor: pointer;">
+            <div class="panel-heading" style="background-color: #fff;" data-toggle="collapse" data-parent="#accordion" data-target="#collapse1">
+                <h2 class="panel-title accordion-toggle" style="color: #2196f3; font-size: 18px; margin: 10px 0px 10px 0px;">What safety measures has Helakam.lk taken to make sure packages are not infected?</h2>
+            </div>
+            <div id="collapse1" class="panel-collapse collapse">
+                <div class="panel-body" style="background-color: #f1f1f1;">
+                    <p>Delivery agents and operations team have been instructed to wear protective gear, including gloves and masks. Our Logistics Partners have been given the same instructions. We are also making sure that packages are being disinfected
+                        at customers' doorstep wherever possible.</p>
+                </div>
+            </div>
+        </div> 
+    
+    </body>
 </html>
