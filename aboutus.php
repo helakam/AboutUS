@@ -16,6 +16,7 @@
     <link rel="stylesheet" href="About Us\aboutus.css">
 </head>
    <body>
+       
     <?php include('php/header1.php'); ?>
 
     <div id="accordion" class="panel-group">
@@ -30,6 +31,7 @@
                 </div>
             </div>
         </div> 
+        
     <div class="panel panel-info" style="cursor: pointer;">
             <div class="panel-heading" style="background-color: #fff;" data-toggle="collapse" data-parent="#accordion" data-target="#collapse3">
                 <h2 class="panel-title accordion-toggle" style="color: #2196f3; font-size: 18px; margin: 10px 0px 10px 0px;">How can I track my order?</h2>
@@ -40,6 +42,7 @@
                 </div>
             </div>
         </div>
+        
      <div class="panel panel-info" style="cursor: pointer;">
             <div class="panel-heading" style="background-color: #fff;" data-toggle="collapse" data-parent="#accordion" data-target="#collapse4">
                 <h2 class="panel-title accordion-toggle" style="color: #2196f3; font-size: 18px; margin: 10px 0px 10px 0px;">How do you change the Contact number?</h2>
@@ -50,6 +53,7 @@
                 </div>
             </div>
         </div>
+        
       <div class="panel panel-info" style="cursor: pointer;">
             <div class="panel-heading" style="background-color: #fff;" data-toggle="collapse" data-parent="#accordion" data-target="#collapse5">
                 <h2 class="panel-title accordion-toggle" style="color: #2196f3; font-size: 18px; margin: 10px 0px 10px 0px;">Is it safe to pay with credit / debit card?</h2>
@@ -60,6 +64,7 @@
                 </div>
             </div>
         </div>
+        
       <div class="panel panel-info" style="cursor: pointer;">
             <div class="panel-heading" style="background-color: #fff;" data-toggle="collapse" data-parent="#accordion" data-target="#collapse6">
                 <h2 class="panel-title accordion-toggle" style="color: #2196f3; font-size: 18px; margin: 10px 0px 10px 0px;">Does <strong>Helakam.lk</strong> deliver across all of Sri Lanka?</h2>
@@ -70,6 +75,7 @@
                 </div>
             </div>
         </div>
+        
       <div class="panel panel-info" style="cursor: pointer;">
             <div class="panel-heading" style="background-color: #fff;" data-toggle="collapse" data-parent="#accordion" data-target="#collapse7">
                 <h2 class="panel-title accordion-toggle" style="color: #2196f3; font-size: 18px; margin: 10px 0px 10px 0px;">What are the shipping charges?</h2>
@@ -89,6 +95,7 @@
             </div>
         </div>
     </div>
+       
     <?php include('php/footer.php');?> 
 
     </body>
