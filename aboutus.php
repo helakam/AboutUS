@@ -70,5 +70,26 @@
                 </div>
             </div>
         </div>
+      <div class="panel panel-info" style="cursor: pointer;">
+            <div class="panel-heading" style="background-color: #fff;" data-toggle="collapse" data-parent="#accordion" data-target="#collapse7">
+                <h2 class="panel-title accordion-toggle" style="color: #2196f3; font-size: 18px; margin: 10px 0px 10px 0px;">What are the shipping charges?</h2>
+            </div>
+            <div id="collapse7" class="panel-collapse collapse">
+                <div class="panel-body" style="background-color: #f1f1f1;">
+                    <ul>
+                        <li>Shipping rate is calculated is based on the weight of the products, the origin from where the item is picked from and the destination to where it is delivered.</li>
+                    </ul>
+                    <ul>
+                        <li>The total shipping fee charged will be clearly indicated for each product individually at the main product page and the total shipping fee for the cart will be displayed at the checkout page.</li>
+                    </ul>
+                    <ul>
+                        <li>The shipping charges are always shown separately from the price of the product.</li>
+                    </ul>
+                </div>
+            </div>
+        </div>
+    </div>
+    <?php include('php/footer.php');?> 
+
     </body>
 </html>
