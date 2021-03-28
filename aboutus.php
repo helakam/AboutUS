@@ -16,6 +16,7 @@
     <link rel="stylesheet" href="About Us\aboutus.css">
 </head>
    <body>
+       
     <?php include('php/header1.php'); ?>
 
     <div id="accordion" class="panel-group">
@@ -30,6 +31,75 @@
                 </div>
             </div>
         </div> 
-    
+        
+    <div class="panel panel-info" style="cursor: pointer;">
+            <div class="panel-heading" style="background-color: #fff;" data-toggle="collapse" data-parent="#accordion" data-target="#collapse3">
+                <h2 class="panel-title accordion-toggle" style="color: #2196f3; font-size: 18px; margin: 10px 0px 10px 0px;">How can I track my order?</h2>
+            </div>
+            <div id="collapse3" class="panel-collapse collapse">
+                <div class="panel-body" style="background-color: #f1f1f1;">
+                    <p>There is option in our site to track your orders & find the current state of order</p>
+                </div>
+            </div>
+        </div>
+        
+     <div class="panel panel-info" style="cursor: pointer;">
+            <div class="panel-heading" style="background-color: #fff;" data-toggle="collapse" data-parent="#accordion" data-target="#collapse4">
+                <h2 class="panel-title accordion-toggle" style="color: #2196f3; font-size: 18px; margin: 10px 0px 10px 0px;">How do you change the Contact number?</h2>
+            </div>
+            <div id="collapse4" class="panel-collapse collapse">
+                <div class="panel-body" style="background-color: #f1f1f1;">
+                    <p>Login to your Account and click on update account and you can change your mobike number or other Informations</p>
+                </div>
+            </div>
+        </div>
+        
+      <div class="panel panel-info" style="cursor: pointer;">
+            <div class="panel-heading" style="background-color: #fff;" data-toggle="collapse" data-parent="#accordion" data-target="#collapse5">
+                <h2 class="panel-title accordion-toggle" style="color: #2196f3; font-size: 18px; margin: 10px 0px 10px 0px;">Is it safe to pay with credit / debit card?</h2>
+            </div>
+            <div id="collapse5" class="panel-collapse collapse">
+                <div class="panel-body" style="background-color: #f1f1f1;">
+                    <p>Fraud detection and prevention are very important to us. We take all steps to ensure that transactions are genuine and that our customers’ details are completely secure.</p>
+                </div>
+            </div>
+        </div>
+        
+      <div class="panel panel-info" style="cursor: pointer;">
+            <div class="panel-heading" style="background-color: #fff;" data-toggle="collapse" data-parent="#accordion" data-target="#collapse6">
+                <h2 class="panel-title accordion-toggle" style="color: #2196f3; font-size: 18px; margin: 10px 0px 10px 0px;">Does <strong>Helakam.lk</strong> deliver across all of Sri Lanka?</h2>
+            </div>
+            <div id="collapse6" class="panel-collapse collapse">
+                <div class="panel-body" style="background-color: #f1f1f1;">
+                    <p><strong>Helakam.lk</strong> delivers all across Sri Lanka through its logistics partners.</p>
+                </div>
+            </div>
+        </div>
+        
+      <div class="panel panel-info" style="cursor: pointer;">
+            <div class="panel-heading" style="background-color: #fff;" data-toggle="collapse" data-parent="#accordion" data-target="#collapse7">
+                <h2 class="panel-title accordion-toggle" style="color: #2196f3; font-size: 18px; margin: 10px 0px 10px 0px;">What are the shipping charges?</h2>
+            </div>
+            <div id="collapse7" class="panel-collapse collapse">
+                <div class="panel-body" style="background-color: #f1f1f1;">
+                    <ul>
+                        <li>Shipping rate is calculated is based on the weight of the products, the origin from where the item is picked from and the destination to where it is delivered.</li>
+                    </ul>
+                    <ul>
+                        <li>The total shipping fee charged will be clearly indicated for each product individually at the main product page and the total shipping fee for the cart will be displayed at the checkout page.</li>
+                    </ul>
+                    <ul>
+                        <li>The shipping charges are always shown separately from the price of the product.</li>
+                    </ul>
+                </div>
+            </div>
+        </div>
+    </div>
+       
+    <?php include('php/footer.php');?> 
+
     </body>
 </html>
+
+vougee ehfebfb houwhpidpib ddouwgwq
+fwefkhb hhwpqhdphd bpidbqpwd
