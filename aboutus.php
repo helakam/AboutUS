@@ -60,5 +60,15 @@
                 </div>
             </div>
         </div>
+      <div class="panel panel-info" style="cursor: pointer;">
+            <div class="panel-heading" style="background-color: #fff;" data-toggle="collapse" data-parent="#accordion" data-target="#collapse6">
+                <h2 class="panel-title accordion-toggle" style="color: #2196f3; font-size: 18px; margin: 10px 0px 10px 0px;">Does <strong>Helakam.lk</strong> deliver across all of Sri Lanka?</h2>
+            </div>
+            <div id="collapse6" class="panel-collapse collapse">
+                <div class="panel-body" style="background-color: #f1f1f1;">
+                    <p><strong>Helakam.lk</strong> delivers all across Sri Lanka through its logistics partners.</p>
+                </div>
+            </div>
+        </div>
     </body>
 </html>
