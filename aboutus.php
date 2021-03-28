@@ -40,5 +40,25 @@
                 </div>
             </div>
         </div>
+     <div class="panel panel-info" style="cursor: pointer;">
+            <div class="panel-heading" style="background-color: #fff;" data-toggle="collapse" data-parent="#accordion" data-target="#collapse4">
+                <h2 class="panel-title accordion-toggle" style="color: #2196f3; font-size: 18px; margin: 10px 0px 10px 0px;">How do you change the Contact number?</h2>
+            </div>
+            <div id="collapse4" class="panel-collapse collapse">
+                <div class="panel-body" style="background-color: #f1f1f1;">
+                    <p>Login to your Account and click on update account and you can change your mobike number or other Informations</p>
+                </div>
+            </div>
+        </div>
+      <div class="panel panel-info" style="cursor: pointer;">
+            <div class="panel-heading" style="background-color: #fff;" data-toggle="collapse" data-parent="#accordion" data-target="#collapse5">
+                <h2 class="panel-title accordion-toggle" style="color: #2196f3; font-size: 18px; margin: 10px 0px 10px 0px;">Is it safe to pay with credit / debit card?</h2>
+            </div>
+            <div id="collapse5" class="panel-collapse collapse">
+                <div class="panel-body" style="background-color: #f1f1f1;">
+                    <p>Fraud detection and prevention are very important to us. We take all steps to ensure that transactions are genuine and that our customers’ details are completely secure.</p>
+                </div>
+            </div>
+        </div>
     </body>
 </html>
